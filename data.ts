@@ -9,7 +9,7 @@ export const portfolioData: PortfolioData = {
   linkedin: "www.linkedin.com/in/leon-kipkemoi-21366b205",
   github: "github.com/Leon365-kk",
   location: "Kericho, Kenya",
-  profileImage: "./Profile Pic.jpg", 
+  profileImage: "/Profile Pic.jpg", 
   about: "Highly motivated technology professional with experience in software development, AI, and cybersecurity. Passionate about building impactful tech solutions, advancing youth digital skills, and leveraging AI to solve real-world challenges.",
   skills: [
     "Cybersecurity", "Artificial Intelligence", "Software Development", "Network Security", 
